@@ -78,38 +78,6 @@
 - 支持保存到csv中（data/目录下）
 - 支持保存到json中（data/目录下）
 
-## 打赏
-
-如果觉得项目不错的话可以打赏哦。您的支持就是我最大的动力！
-
-打赏时您可以备注名称，我会将您添加至打赏列表中。
-<p>
-  <img alt="打赏-微信" src="static/images/wechat_pay.jpeg" style="width: 200px;margin-right: 140px;" />
-  <img alt="打赏-支付宝" src="static/images/zfb_pay.jpeg" style="width: 200px" />
-</p>
-
-## 捐赠信息
-
-PS：如果打赏时请备注捐赠者，如有遗漏请联系我添加（有时候消息多可能会漏掉，十分抱歉）
-
-| 捐赠者     | 捐赠金额  | 捐赠日期       |
-|---------|-------|------------|
-| *鑫      | 20 元  | 2024-03-14 |
-| Yuzu    | 20 元  | 2024-03-07 |
-| **宁     | 100 元 | 2024-03-03 |
-| **媛     | 20 元  | 2024-03-03 |
-| Scarlett | 20 元  | 2024-02-16 |
-| Asun    | 20 元  | 2024-01-30 |
-| 何*      | 100 元 | 2024-01-21 |
-| allen   | 20 元  | 2024-01-10 |
-| llllll  | 20 元  | 2024-01-07 |
-| 邝*元     | 20 元  | 2023-12-29 |
-| 50chen  | 50 元  | 2023-12-22 |
-| xiongot | 20 元  | 2023-12-17 |
-| atom.hu | 20 元  | 2023-12-16 |
-| 一呆      | 20 元  | 2023-12-01 |
-| 坠落      | 50 元  | 2023-11-08 |
-
 ## 运行报错常见问题Q&A
 > 遇到问题先自行搜索解决下，现在AI很火，用ChatGPT大多情况下能解决你的问题 [免费的ChatGPT](https://sider.ai/invited?c=8e03db1a973401fdf114ed9cf9f8c183)  
 
@@ -121,13 +89,6 @@ PS：如果打赏时请备注捐赠者，如有遗漏请联系我添加（有时
 
 ## 手机号登录说明
 ➡️➡️➡️ [手机号登录说明](docs/手机号登录说明.md)
-
-
-
-## star 趋势图
-- 如果该项目对你有帮助，star一下 ❤️❤️❤️
-
-[![Star History Chart](https://api.star-history.com/svg?repos=NanmiCoder/MediaCrawler&type=Date)](https://star-history.com/#NanmiCoder/MediaCrawler&Date)
 
 
 
